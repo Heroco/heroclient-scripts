@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<script>
+	<info>
+		<uuid>23486038-e57b-4db7-bc37-8c56c7327d22</uuid>
+		<name>MCGamster</name>
+		<author>HeroClient</author>
+		<description>Für jeden mc.gamster.org Gamemode geeignet. | For any mc.gamster.org Gamemode.</description>
+		<timestamp>1565795883667</timestamp>
+		<recommendedServer>MCGamster</recommendedServer>
+	</info>
+	<commands>
+		<c>toggle AirStuck false</c>
+		<c>toggle AntiBlind true</c>
+		<c>toggle AntiBot true</c>
+		<c>set AntiBot Mode Limit</c>
+		<c>set AntiBot LimitSwing false</c>
+		<c>set AntiBot LimitPing false</c>
+		<c>set AntiBot LimitPremium false</c>
+		<c>set AntiBot LimitTablist true</c>
+		<c>set AntiBot LimitColortag false</c>
+		<c>set AntiBot LimitMinAirTicks 0</c>
+		<c>set AntiBot LimitMinGroundTicks 0</c>
+		<c>set AntiBot LimitInvisCooldown 6</c>
+		<c>set AntiBot IgnoreOnHit false</c>
+		<c>toggle AntiInvisibles false</c>
+		<c>toggle AutoArmor true</c>
+		<c>set AutoArmor NoMovement false</c>
+		<c>set AutoArmor OnlyInv false</c>
+		<c>set AutoArmor DropOldArmor Always</c>
+		<c>set AutoArmor StartEquip 0</c>
+		<c>set AutoArmor Equip 50</c>
+		<c>set AutoArmor ArmorExist 0</c>
+		<c>set AutoArmor Hotbar false</c>
+		<c>set AutoArmor HotbarSwitch 50</c>
+		<c>set AutoArmor HotbarEquip 50</c>
+		<c>set AutoArmor HotbarCombine false</c>
+		<c>set AutoArmor HotbarExist 0</c>
+		<c>toggle AutoPot false</c>
+		<c>set AutoPot MinHealth 10</c>
+		<c>set AutoPot Delay 100</c>
+		<c>set AutoPot SpeedPotions true</c>
+		<c>set AutoPot RefillDelay 0</c>
+		<c>set AutoPot RefillOnlyInv true</c>
+		<c>toggle AutoSoup false</c>
+		<c>set AutoSoup MinHealth 10</c>
+		<c>set AutoSoup Delay 100</c>
+		<c>set AutoSoup Drop true</c>
+		<c>set AutoSoup RefillDelay 0</c>
+		<c>set AutoSoup RefillOnlyInv true</c>
+		<c>toggle Blink false</c>
+		<c>set Blink IgnoreIncomingPackets false</c>
+		<c>set Blink PositionPackets true</c>
+		<c>set Blink InteractPackets true</c>
+		<c>set Blink OtherPackets true</c>
+		<c>set Blink FakePlayer true</c>
+		<c>set Blink MaxPackets 300</c>
+		<c>set Blink Breadcrumbs true</c>
+		<c>toggle BlockESP false</c>
+		<c>set BlockESP BlockID 166</c>
+		<c>set BlockESP Color #00ff43</c>
+		<c>toggle BlockHuntESP false</c>
+		<c>toggle BorderlessWindow false</c>
+		<c>toggle BowAimbot true</c>
+		<c>set BowAimbot AutoShoot true</c>
+		<c>toggle CameraNoClip false</c>
+		<c>toggle ChestAura false</c>
+		<c>set ChestAura Delay 100</c>
+		<c>set ChestAura Range 5.0</c>
+		<c>set ChestAura ThroughBlocks true</c>
+		<c>set ChestAura OneTry false</c>
+		<c>set ChestAura Chest true</c>
+		<c>set ChestAura TrappedChest false</c>
+		<c>set ChestAura EnderChest false</c>
+		<c>set ChestAura Rewi false</c>
+		<c>set ChestAura Hive false</c>
+		<c>set ChestESP Chest true</c>
+		<c>set ChestESP TrappedChest false</c>
+		<c>set ChestESP EnderChest false</c>
+		<c>set ChestESP Hive false</c>
+		<c>toggle ChestStealer false</c>
+		<c>set ChestStealer StartDelay 300</c>
+		<c>set ChestStealer MinExisted 188</c>
+		<c>set ChestStealer Delay 100</c>
+		<c>set ChestStealer RandomDelay 0</c>
+		<c>set ChestStealer AutoClose true</c>
+		<c>set ChestStealer CloseDelay 100</c>
+		<c>set ChestStealer OnlyChests true</c>
+		<c>set ChestStealer KeybindUpdate true</c>
+		<c>set ChestStealer Intelligent true</c>
+		<c>toggle CrashNametag false</c>
+		<c>set CrashNametag Length 50000</c>
+		<c>set CrashNametag Normal true</c>
+		<c>set CrashNametag Unicode false</c>
+		<c>set CrashNametag UnicodeBlock false</c>
+		<c>toggle CreativeKiller false</c>
+		<c>toggle Derp false</c>
+		<c>toggle ESP true</c>
+		<c>set ESP EntityMode Box2D</c>
+		<c>set ESP ItemMode FadingOutline</c>
+		<c>set ESP OtherMode None</c>
+		<c>set ESP Entities OnlyTargets</c>
+		<c>set ESP EntityFilled false</c>
+		<c>set ESP ItemFilled false</c>
+		<c>set ESP OtherFilled false</c>
+		<c>set ESP Rotate false</c>
+		<c>set ESP FullRender false</c>
+		<c>set ESP TextureOutline false</c>
+		<c>set ESP BlurRadius 7</c>
+		<c>set ESP ShaderWidth 1</c>
+		<c>set ESP Boxy false</c>
+		<c>set ESP Radius 2</c>
+		<c>set ESP TextureAlpha 0.0</c>
+		<c>set ESP ColorFit false</c>
+		<c>set ESP Intensive true</c>
+		<c>set ESP Color #13ff2b</c>
+		<c>toggle FakeLag false</c>
+		<c>set FakeLag Intervall 100</c>
+		<c>set FakeLag LagDuration 101</c>
+		<c>toggle FastPlace true</c>
+		<c>set FastPlace Delay 1</c>
+		<c>toggle FastUse false</c>
+		<c>toggle Flight false</c>
+		<c>set Flight Speed 0.05</c>
+		<c>set Flight NoAbilities true</c>
+		<c>set Flight OnGroundFix true</c>
+		<c>toggle Freecam false</c>
+		<c>toggle Fucker false</c>
+		<c>set Fucker Range 4.25</c>
+		<c>set Fucker BreakDelay 193</c>
+		<c>set Fucker BreakInstant true</c>
+		<c>set Fucker BreakMultiplier 1.0</c>
+		<c>set Fucker ThroughBlocks true</c>
+		<c>set Fucker ESP true</c>
+		<c>set Fucker Block Bed</c>
+		<c>set Fucker Interact false</c>
+		<c>toggle Glide false</c>
+		<c>set Glide Mode McGamster</c>
+		<c>set Glide AAC1.9.10-b8Boost 0.6</c>
+		<c>set Glide AAC1.9.10-b8Timer false</c>
+		<c>set Glide HypixelBoost false</c>
+		<c>set Glide HypixelTimer false</c>
+		<c>set Glide HypixelCrit false</c>
+		<c>set Glide CubecraftJump false</c>
+		<c>set Glide CubecraftRiskyFactor 0.0</c>
+		<c>toggle HighJump false</c>
+		<c>toggle InteractAura false</c>
+		<c>set InteractAura Range 4.0</c>
+		<c>set InteractAura Delay 100</c>
+		<c>set InteractAura Door true</c>
+		<c>set InteractAura Trapdoor true</c>
+		<c>set InteractAura Lever true</c>
+		<c>set InteractAura FenceGate true</c>
+		<c>set InteractAura Button true</c>
+		<c>set InteractAura Note true</c>
+		<c>toggle InventoryManager true</c>
+		<c>set InventoryManager NoMovement false</c>
+		<c>set InventoryManager OnlyInv false</c>
+		<c>set InventoryManager StartEquip 0</c>
+		<c>set InventoryManager Equip 50</c>
+		<c>set InventoryManager ArmorExist 0</c>
+		<c>set InventoryManager Clean true</c>
+		<c>set InventoryManager Sort true</c>
+		<c>toggle InventoryMove true</c>
+		<c>set InventoryMove AACAD true</c>
+		<c>set InventoryMove Move true</c>
+		<c>set InventoryMove Rotate true</c>
+		<c>set InventoryMove UnlimitedRotate false</c>
+		<c>set InventoryMove RotSpeed 10</c>
+		<c>set InventoryMove Jump true</c>
+		<c>set InventoryMove Sprint true</c>
+		<c>toggle Jesus true</c>
+		<c>toggle KillAura false</c>
+		<c>set Killaura TargetMode NearestRotation</c>
+		<c>set Killaura AimMode Simple</c>
+		<c>set Killaura AttackMode Single</c>
+		<c>set Killaura BlockMode NCP</c>
+		<c>set Killaura SprintMode Reset</c>
+		<c>set Killaura Range 4.5</c>
+		<c>set Killaura AimRangeAd 2.0</c>
+		<c>set Killaura PlayerRaycast true</c>
+		<c>set Killaura StrictRaycast true</c>
+		<c>set Killaura BlockRaycast true</c>
+		<c>set Killaura Predict true</c>
+		<c>set Killaura MinCPS 8.0</c>
+		<c>set Killaura MaxCPS 10.0</c>
+		<c>set Killaura MissRate 0.0</c>
+		<c>set Killaura NoHitSlowdown true</c>
+		<c>set Killaura AutoBlock true</c>
+		<c>set Killaura SmartBlock true</c>
+		<c>toggle LongJump false</c>
+		<c>set LongJump Mode Normal</c>
+		<c>set LongJump Boost 1.0</c>
+		<c>set LongJump UpBoost 0.025</c>
+		<c>toggle MemoryFix true</c>
+		<c>set MemoryFix FixOptiCape true</c>
+		<c>set MemoryFix FasterWorldChange true</c>
+		<c>toggle MidClick true</c>
+		<c>toggle MouseDelayFix true</c>
+		<c>set Nametags Selector OnlyTargets</c>
+		<c>toggle NoBob true</c>
+		<c>set NoBob Mode Classic</c>
+		<c>set NoBob WasBobbing false</c>
+		<c>toggle NoFall false</c>
+		<c>set NoFall Mode AAC3.4.0</c>
+		<c>toggle NoRotationSet true</c>
+		<c>toggle NoSlowdown true</c>
+		<c>set NoSlowdown Mode Vanilla</c>
+		<c>set NoSlowdown Percentage 100</c>
+		<c>set NoSlowdown Sprint false</c>
+		<c>toggle Panic false</c>
+		<c>toggle PathFinder false</c>
+		<c>set PathFinder Mode Closest</c>
+		<c>set PathFinder RenderMode Lines</c>
+		<c>set PathFinder AutoWalk false</c>
+		<c>toggle PositionHelper true</c>
+		<c>set PositionHelper LockView false</c>
+		<c>toggle PotionSaver false</c>
+		<c>toggle Projectiles true</c>
+		<c>set Projectiles Arrow true</c>
+		<c>set Projectiles Potion true</c>
+		<c>set Projectiles Others true</c>
+		<c>set Projectiles HitWarning false</c>
+		<c>set Projectiles DrawHit false</c>
+		<c>toggle SafeWalk false</c>
+		<c>toggle ScaffoldWalk false</c>
+		<c>set ScaffoldWalk PlaceEvent Post</c>
+		<c>set ScaffoldWalk PlaceDelay 0</c>
+		<c>set ScaffoldWalk SafeWalk true</c>
+		<c>set ScaffoldWalk Sneak false</c>
+		<c>set ScaffoldWalk Sprint false</c>
+		<c>set ScaffoldWalk Strict true</c>
+		<c>set ScaffoldWalk OnlyPlaceableBlock true</c>
+		<c>set ScaffoldWalk Silent true</c>
+		<c>set ScaffoldWalk SilentMode Switch</c>
+		<c>set ScaffoldWalk StartSneak 0.2</c>
+		<c>set ScaffoldWalk SneakBoost 1.1</c>
+		<c>toggle Speed false</c>
+		<c>set Speed Mode AAC3.3.13</c>
+		<c>set Speed AAC3.3.13FlyTolerance 0.01</c>
+		<c>toggle Spider false</c>
+		<c>toggle Spotify false</c>
+		<c>set Spotify CacheCovers false</c>
+		<c>set Spotify AnnounceAd true</c>
+		<c>toggle Sprint true</c>
+		<c>toggle Step false</c>
+		<c>set Step Mode AAC</c>
+		<c>set Step StepHeight 4.0</c>
+		<c>set Step Cooldown true</c>
+		<c>toggle Strafe false</c>
+		<c>set Strafe Repeated false</c>
+		<c>set Strafe NoDirectionChange true</c>
+		<c>toggle Streammode false</c>
+		<c>toggle SuperHit false</c>
+		<c>toggle Targets false</c>
+		<c>set Targets Players true</c>
+		<c>set Targets Mobs false</c>
+		<c>set Targets Animals false</c>
+		<c>set Targets Invisibles false</c>
+		<c>set Targets BlockHuntBlocks false</c>
+		<c>set Targets Friends false</c>
+		<c>toggle Teams false</c>
+		<c>set Teams Mode ColorName</c>
+		<c>toggle Teleport false</c>
+		<c>set Teleport Mode MCGamster</c>
+		<c>toggle TerrainSpeed true</c>
+		<c>set TerrainSpeed Stairs true</c>
+		<c>set TerrainSpeed StairSpeed 10.0</c>
+		<c>set TerrainSpeed BoostSpeed 0.6</c>
+		<c>set TerrainSpeed MaxOffSpeed 1.5</c>
+		<c>set TerrainSpeed SlowDownRate 0.04</c>
+		<c>set TerrainSpeed Web true</c>
+		<c>set TerrainSpeed WebSpeed 0.4</c>
+		<c>set TerrainSpeed Ladders true</c>
+		<c>set TerrainSpeed LadderStep false</c>
+		<c>set TerrainSpeed MaxLadderStepheight 25</c>
+		<c>set TerrainSpeed LadderSpeed 0.169</c>
+		<c>set TerrainSpeed Water false</c>
+		<c>set TerrainSpeed AutoSwim false</c>
+		<c>set TerrainSpeed WaterSpeed 0.15</c>
+		<c>toggle Timer false</c>
+		<c>set Timer Multiplier 2.0</c>
+		<c>toggle TNTBlock true</c>
+		<c>set TNTBlock Range 6.0</c>
+		<c>set TNTBlock Fuse 40</c>
+		<c>toggle Tower false</c>
+		<c>set Tower Event Post</c>
+		<c>set Tower Mode AACAD</c>
+		<c>set Tower OnlyPlaceableBlock true</c>
+		<c>set Tower Silent true</c>
+		<c>set Tower Timer 1.0</c>
+		<c>set Tower PlaceDelay 0</c>
+		<c>set Tower SilentMode Spoof</c>
+		<c>toggle Tracers false</c>
+		<c>set Tracers Crosshair true</c>
+		<c>toggle Trajectories true</c>
+		<c>set Trajectories UseServerRotation true</c>
+		<c>set Trajectories ShowInaccuracy false</c>
+		<c>toggle Twerk false</c>
+		<c>set Twerk Stand 250</c>
+		<c>set Twerk Sneak 500</c>
+		<c>toggle Velocity true</c>
+		<c>set Velocity Mode AAC3.3.13</c>
+		<c>set Velocity NoDirectionChange true</c>
+		<c>toggle WorldTime false</c>
+		<c>set WorldTime Time 19199</c>
+		<c>toggle Xray false</c>
+	</commands>
+</script>
