@@ -11,15 +11,9 @@
 	<commands>
 		<c>toggle AirStuck false</c>
 		<c>toggle AntiBot true</c>
-		<c>set AntiBot Mode Limit</c>
-		<c>set AntiBot LimitSwing false</c>
-		<c>set AntiBot LimitPing false</c>
-		<c>set AntiBot LimitPremium false</c>
-		<c>set AntiBot LimitTablist true</c>
-		<c>set AntiBot LimitColortag false</c>
-		<c>set AntiBot LimitMinAirTicks 0</c>
-		<c>set AntiBot LimitMinGroundTicks 0</c>
-		<c>set AntiBot LimitInvisCooldown 0</c>
+		<c>set AntiBot Mode None</c>
+		<c>set AntiBot PlayerOnly true</c>
+		<c>set AntiBot BlockNCPs true</c>
 		<c>set AntiBot IgnoreOnHit true</c>
 		<c>toggle AutoArmor true</c>
 		<c>set AutoArmor NoMovement false</c>
