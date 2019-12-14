@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<script>
+	<info>
+		<uuid>fb33f880-7711-4f6b-9153-dc00b8a17562</uuid>
+		<name>GommeEnderGames</name>
+		<author>HeroClient</author>
+		<description>Für Endergames auf GommeHD geeignet. | For EnderGames on GommeHD.</description>
+		<timestamp>1551652928142</timestamp>
+		<recommendedServer>Gomme</recommendedServer>
+	</info>
+	<commands>
+		<c>toggle AirStuck false</c>
+		<c>toggle AntiBot true</c>
+		<c>set AntiBot Mode Limit</c>
+		<c>set AntiBot LimitSwing false</c>
+		<c>set AntiBot LimitPing false</c>
+		<c>set AntiBot LimitPremium false</c>
+		<c>set AntiBot LimitTablist true</c>
+		<c>set AntiBot LimitColortag false</c>
+		<c>set AntiBot LimitMinAirTicks 0</c>
+		<c>set AntiBot LimitMinGroundTicks 0</c>
+		<c>set AntiBot LimitInvisCooldown 0</c>
+		<c>set AntiBot IgnoreOnHit true</c>
+		<c>toggle AutoArmor true</c>
+		<c>set AutoArmor NoMovement false</c>
+		<c>set AutoArmor OnlyInv false</c>
+		<c>set AutoArmor DropOldArmor Always</c>
+		<c>set AutoArmor StartEquip 100</c>
+		<c>set AutoArmor Equip 50</c>
+		<c>set AutoArmor ArmorExist 0</c>
+		<c>toggle AutoPot false</c>
+		<c>set AutoPot MinHealth 10</c>
+		<c>set AutoPot Delay 100</c>
+		<c>set AutoPot SpeedPotions true</c>
+		<c>set AutoPot RefillDelay 0</c>
+		<c>set AutoPot RefillOnlyInv true</c>
+		<c>toggle AutoSoup false</c>
+		<c>set AutoSoup MinHealth 10</c>
+		<c>set AutoSoup Delay 100</c>
+		<c>set AutoSoup Drop true</c>
+		<c>set AutoSoup RefillDelay 0</c>
+		<c>set AutoSoup RefillOnlyInv true</c>
+		<c>toggle Blink false</c>
+		<c>toggle BlockESP false</c>
+		<c>toggle BlockHuntESP false</c>
+		<c>toggle BowAimbot true</c>
+		<c>set BowAimbot AutoShoot true</c>
+		<c>toggle ChestAura false</c>
+		<c>set ChestAura Delay 100</c>
+		<c>set ChestAura Range 5.0</c>
+		<c>set ChestAura ThroughBlocks true</c>
+		<c>set ChestAura OneTry false</c>
+		<c>set ChestAura Chest false</c>
+		<c>set ChestAura TrappedChest false</c>
+		<c>set ChestAura EnderChest true</c>
+		<c>set ChestAura Rewi false</c>
+		<c>set ChestAura Hive false</c>
+		<c>set ChestESP Chest false</c>
+		<c>set ChestESP TrappedChest false</c>
+		<c>set ChestESP EnderChest true</c>
+		<c>set ChestESP Hive false</c>
+		<c>toggle ChestStealer false</c>
+		<c>set ChestStealer StartDelay 300</c>
+		<c>set ChestStealer MinExisted 188</c>
+		<c>set ChestStealer Delay 120</c>
+		<c>set ChestStealer RandomDelay 0</c>
+		<c>set ChestStealer AutoClose true</c>
+		<c>set ChestStealer CloseDelay 100</c>
+		<c>set ChestStealer OnlyChests true</c>
+		<c>set ChestStealer KeybindUpdate true</c>
+		<c>set ChestStealer Intelligent true</c>
+		<c>toggle Derp false</c>
+		<c>set ESP Entities OnlyTargets</c>
+		<c>toggle FakeLag false</c>
+		<c>toggle FastPlace true</c>
+		<c>set FastPlace Delay 1</c>
+		<c>toggle FastUse true</c>
+		<c>toggle Flight false</c>
+		<c>set Flight NoAbilities true</c>
+		<c>toggle Freecam false</c>
+		<c>toggle Fucker false</c>
+		<c>toggle Glide false</c>
+		<c>set Glide Mode NCPb914</c>
+		<c>toggle HighJump false</c>
+		<c>toggle InteractAura false</c>
+		<c>set InteractAura Range 4.0</c>
+		<c>toggle InventoryManager true</c>
+		<c>set InventoryManager NoMovement false</c>
+		<c>set InventoryManager OnlyInv false</c>
+		<c>set InventoryManager StartEquip 100</c>
+		<c>set InventoryManager Equip 50</c>
+		<c>set InventoryManager ArmorExist 0</c>
+		<c>set InventoryManager Clean true</c>
+		<c>set InventoryManager Sort true</c>
+		<c>toggle InventoryMove true</c>
+		<c>set InventoryMove AACAD true</c>
+		<c>set InventoryMove Move true</c>
+		<c>set InventoryMove Rotate true</c>
+		<c>set InventoryMove UnlimitedRotate false</c>
+		<c>set InventoryMove RotSpeed 10</c>
+		<c>set InventoryMove Jump true</c>
+		<c>set InventoryMove Sprint true</c>
+		<c>toggle Jesus false</c>
+		<c>toggle KillAura false</c>
+		<c>set Killaura TargetMode NearestRotation</c>
+		<c>set Killaura AimMode Simple</c>
+		<c>set Killaura AttackMode Single</c>
+		<c>set Killaura BlockMode NCP</c>
+		<c>set Killaura SprintMode Reset</c>
+		<c>set Killaura Range 4.5</c>
+		<c>set Killaura AimRangeAd 2.0</c>
+		<c>set Killaura PlayerRaycast true</c>
+		<c>set Killaura StrictRaycast true</c>
+		<c>set Killaura BlockRaycast true</c>
+		<c>set Killaura Predict true</c>
+		<c>set Killaura MinCPS 8.0</c>
+		<c>set Killaura MaxCPS 14.0</c>
+		<c>set Killaura MissRate 0.0</c>
+		<c>set Killaura NoHitSlowdown true</c>
+		<c>set Killaura AutoBlock true</c>
+		<c>set Killaura SmartBlock true</c>
+		<c>toggle LongJump false</c>
+		<c>toggle MemoryFix true</c>
+		<c>set MemoryFix FixOptiCape true</c>
+		<c>set MemoryFix FasterWorldChange true</c>
+		<c>toggle MidClick true</c>
+		<c>toggle MouseDelayFix true</c>
+		<c>toggle NoFall false</c>
+		<c>toggle NoRotationSet true</c>
+		<c>toggle NoSlowdown true</c>
+		<c>set NoSlowdown Mode Vanilla</c>
+		<c>set NoSlowdown Percentage 90</c>
+		<c>set NoSlowdown Sprint true</c>
+		<c>toggle PotionSaver false</c>
+		<c>toggle SafeWalk false</c>
+		<c>toggle ScaffoldWalk false</c>
+		<c>set ScaffoldWalk PlaceEvent Post</c>
+		<c>set ScaffoldWalk PlaceDelay 0</c>
+		<c>set ScaffoldWalk SafeWalk true</c>
+		<c>set ScaffoldWalk Sneak false</c>
+		<c>set ScaffoldWalk Sprint true</c>
+		<c>set ScaffoldWalk Strict true</c>
+		<c>set ScaffoldWalk OnlyPlaceableBlock true</c>
+		<c>set ScaffoldWalk Silent true</c>
+		<c>set ScaffoldWalk SilentMode Switch</c>
+		<c>set ScaffoldWalk StartSneak 0.2</c>
+		<c>set ScaffoldWalk SneakBoost 1.1</c>
+		<c>toggle Speed false</c>
+		<c>set Speed Mode NCPb900</c>
+		<c>toggle Spider false</c>
+		<c>toggle Sprint true</c>
+		<c>toggle Step true</c>
+		<c>set Step Mode NCP</c>
+		<c>set Step Cooldown false</c>
+		<c>toggle Strafe false</c>
+		<c>toggle Targets false</c>
+		<c>set Targets Players true</c>
+		<c>set Targets Mobs false</c>
+		<c>set Targets Animals false</c>
+		<c>set Targets Invisibles false</c>
+		<c>toggle Teams false</c>
+		<c>toggle Teleport false</c>
+		<c>toggle TerrainSpeed false</c>
+		<c>toggle Timer false</c>
+		<c>toggle TNTBlock true</c>
+		<c>set TNTBlock Range 6.0</c>
+		<c>set TNTBlock Fuse 40</c>
+		<c>toggle Tower false</c>
+		<c>set Tower Event Post</c>
+		<c>set Tower Mode AAC3</c>
+		<c>set Tower OnlyPlaceableBlock true</c>
+		<c>set Tower Silent true</c>
+		<c>set Tower Timer 1.0</c>
+		<c>set Tower PlaceDelay 0</c>
+		<c>set Tower SilentMode Switch</c>
+		<c>toggle Velocity true</c>
+		<c>set Velocity Mode NCP</c>
+		<c>set Velocity XFac 0.0</c>
+		<c>set Velocity YFac 0.0</c>
+		<c>set Velocity ZFac 0.0</c>
+	</commands>
+</script>
