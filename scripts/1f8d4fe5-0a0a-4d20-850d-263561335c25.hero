@@ -132,6 +132,7 @@
 		<c>set Killaura AutoBlock true</c>
 		<c>set Killaura SmartBlock true</c>
 		<c>toggle LongJump false</c>
+		<c>set LongJump Mode Cubecraft</c>
 		<c>toggle MemoryFix true</c>
 		<c>set MemoryFix FixOptiCape true</c>
 		<c>set MemoryFix FasterWorldChange true</c>
