@@ -6,6 +6,7 @@ These are the config scripts that you can use in the [HeroClient](https://hro.to
 - [Gomme](https://github.com/Heroco/heroclient-scripts/blob/master/scripts/73ff3eb2-4fc2-4a1b-a86b-e521bdc5daf5.hero)
 - [GommeBW](https://github.com/Heroco/heroclient-scripts/blob/master/scripts/76d06e0a-78cd-4f8d-b436-9072f7f982b5.hero)
 - [GommeEnderGames](https://github.com/Heroco/heroclient-scripts/blob/master/scripts/fb33f880-7711-4f6b-9153-dc00b8a17562.hero)
+- [GommePingSpoof](https://github.com/Heroco/heroclient-scripts/blob/master/scripts/8750abb8-6487-11ea-bc55-0242ac130003.hero)
 
 ### Cubecraft
 - [Cubecraft](https://github.com/Heroco/heroclient-scripts/blob/master/scripts/1f8d4fe5-0a0a-4d20-850d-263561335c25.hero)
