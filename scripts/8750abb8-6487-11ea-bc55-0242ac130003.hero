@@ -122,7 +122,7 @@
 		<c>set Killaura MaxCPS 14.5</c>
 		<c>set Killaura MissRate 0.0</c>
 		<c>set Killaura NoHitSlowdown true</c>
-		<c>set Killaura AutoBlock true</c>
+		<c>set Killaura AutoBlock false</c>
 		<c>set Killaura SmartBlock true</c>
 		<c>toggle LongJump false</c>
 		<c>toggle MemoryFix true</c>
